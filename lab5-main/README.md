@@ -1,2 +1,2 @@
-# Marchenko-lab5
-lab 5
+# Lab5
+Tasks for lab 5
